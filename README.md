@@ -7,7 +7,7 @@
 </head>
 <body>
   <header>
-    <h1>Мій сайт</h1>
+    <h1>hero working </h1>
     <nav aria-label="Головне меню">
       <ul>
         <li><a href="#home">Головна</a></li>
